@@ -1,11 +1,11 @@
 # 🚀 Kestra Configuration Repository  
 
-Repository ini berisi konfigurasi dan workflow **Kestra**, platform open-source untuk orkestrasi data pipeline dan workflow berbasis YAML. Semua konfigurasi di sini dikelola dengan **Git version control**, sehingga setiap perubahan dapat dilacak dengan mudah.  
+This repository contains the configuration and workflows for Kestra, an open-source platform for orchestrating data pipelines and workflows using YAML. All configurations are managed with Git version control, allowing easy tracking and rollback of changes.  
 
-## 📌 Fitur Utama  
-✅ **Pipeline Orkestrasi** – Mengelola dan menjalankan workflow otomatis dengan YAML.  
-✅ **Version Control** – Menyimpan semua perubahan konfigurasi dengan Git untuk tracking & rollback.  
-✅ **Integrasi GitHub** – Memungkinkan otomatisasi commit dan push ke repository GitHub.  
-✅ **Deployment yang Terkelola** – Sinkronisasi antara environment **development** dan **production**.  
+## 📌 Key Features  
+- ✅ **Pipeline Orchestration** – Manage and execute automated workflows with YAML.  
+- ✅ **Version Control** – Track and store all configuration changes using Git.  
+- ✅ **GitHub Integration** – Automate commits and pushes to the GitHub repository.  
+- ✅ **Managed Deployment** – Synchronize between **development** and **production** environments.
 
 ---
