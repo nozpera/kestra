@@ -1,5 +1,5 @@
 id: postgres_taxi-scheduling
-namespace: prod
+namespace: zoomcamp
 
 concurrency:
   limit: 1
