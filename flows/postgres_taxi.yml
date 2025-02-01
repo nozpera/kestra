@@ -1,5 +1,5 @@
 id: postgres_taxi
-namespace: prod
+namespace: zoomcamp
 
 inputs:
   - id: taxi
