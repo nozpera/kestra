@@ -11,7 +11,7 @@ inputs:
   - id: year
     type: SELECT
     displayName: Select Year
-    values: ["2019", "2020"]
+    values: ["2019", "2020", "2021"]
     defaults: "2019"
 
   - id: month
